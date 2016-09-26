@@ -1,6 +1,6 @@
 {
   "name": "cloudant-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Cloudant wrapper to facilitate use of the official Cloudant module.",
   "main": "index.js",
   "scripts": {
