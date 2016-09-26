@@ -1,0 +1,30 @@
+{
+  "name": "cloudant-wrapper",
+  "version": "1.0.1",
+  "description": "A Cloudant wrapper to facilitate use of the official Cloudant module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBMResearch/cloudant-wrapper.git"
+  },
+  "dependencies": {
+    "cloudant": "^1.4.3"
+  },
+  "keywords": [
+    "cloudant",
+    "node.js",
+    "database",
+    "nosql",
+    "ibmresearch",
+    "ibm"
+  ],
+  "author": "Paco Martín Fernández <fmartinfdez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IBMResearch/cloudant-wrapper/issues"
+  },
+  "homepage": "https://github.com/IBMResearch/cloudant-wrapper#readme"
+}
