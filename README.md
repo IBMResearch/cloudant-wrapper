@@ -10,7 +10,7 @@ A Cloudant wrapper to facilitate use of the official [Cloudant Node.js Module](h
 
 ## Installation
 
-You can me in your package.json dependencies. The `npm` tool can do this for you, from the command line:
+You can put me in your package.json dependencies. The `npm` tool can do this for you, from the command line:
 
     $ npm install --save cloudant-wrapper
 
@@ -245,4 +245,5 @@ SOFTWARE.
 ## Reference
 
 [Cloudant Node.js Module](https://github.com/cloudant/nodejs-cloudant)
+
 [Cloudant Documentation](https://docs.cloudant.com/)
